@@ -1,2 +1,2 @@
 # Chess
-Chess Engine, GUI and AI
+Chess Engine, GUI and AI (In Development)
